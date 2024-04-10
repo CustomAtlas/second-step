@@ -1,7 +1,7 @@
 # Second step
 
 This is my second Flutter app. 
-Here you can add and delete users in list and check them info like username, second name, first name and telephone number
+Here you can add and delete users in list and check their info like username, second name, first name and telephone number
 
 ![Снимок экрана 2024-04-10 205947](https://github.com/CustomAtlas/second_step/assets/165499054/ba8e9019-4121-4058-a4c1-d3e19a3fc974)
 
